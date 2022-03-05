@@ -10,7 +10,7 @@ $data = date('d.m.Y H:i');
 		<link rel="stylesheet" href="style.css" />
 	</head>
 	<body>
-		<script src="/fo3/wimpy/wimpy.js"></script>
+		<script src="/Fo3_Radio/wimpy/wimpy.js"></script>
 		<div class="container">
 			<div class="row d-flex flex-row-reverse">
 				<div class="col-2">
@@ -29,7 +29,7 @@ $data = date('d.m.Y H:i');
 			<div
 				style="width:100%;height:100%;"
 				data-wimpyplayer
-				data-skin="/fo3/wimpy/Fo3_test.tsv"
+				data-skin="/Fo3_Radio/wimpy/Fo3_test.tsv"
 				data-responsive="1"
 				data-autoPlay="1"
 				data-getid3="1"
