@@ -1,0 +1,41 @@
+ O volume na unidade C ‚ Acer
+ O N£mero de S‚rie do Volume ‚ F410-184C
+
+ Pasta de C:\wamp64\www\fo3\fo3_ost
+
+05/03/2022  13:18    <DIR>          .
+05/03/2022  13:18    <DIR>          ..
+05/03/2022  13:12            89.829 cover.jpg
+05/03/2022  13:09         1.813.924 Fallout 3 Soundtrack - A Wonderful Guy.mp3
+05/03/2022  13:10         1.339.512 Fallout 3 Soundtrack - America.mp3
+05/03/2022  13:09         2.997.568 Fallout 3 Soundtrack - Anything Goes.mp3
+05/03/2022  13:10           505.184 Fallout 3 Soundtrack - Battle Hymn of the Republic.mp3
+05/03/2022  13:09         2.277.421 Fallout 3 Soundtrack - Boogie Man.mp3
+05/03/2022  13:09         4.941.910 Fallout 3 Soundtrack - Butcher Pete.mp3
+05/03/2022  13:10         2.086.053 Fallout 3 Soundtrack - Dear Hearts and Gentle People.mp3
+05/03/2022  13:09           963.214 Fallout 3 Soundtrack - Dixie.mp3
+05/03/2022  13:09         2.929.044 Fallout 3 Soundtrack - Easy Living.mp3
+05/03/2022  13:09         3.122.156 Fallout 3 Soundtrack - Fox Boggie.mp3
+05/03/2022  13:09         1.110.033 Fallout 3 Soundtrack - Hail Columbia.mp3
+05/03/2022  13:10           845.604 Fallout 3 Soundtrack - Halls of Montezuma.mp3
+05/03/2022  13:09         2.598.012 Fallout 3 Soundtrack - Happy Times.mp3
+05/03/2022  13:09         2.963.325 Fallout 3 Soundtrack - I dont want to set the World on Fire.mp3
+05/03/2022  13:09         1.759.596 Fallout 3 Soundtrack - Im Tickled Pink.mp3
+05/03/2022  13:09         1.887.088 Fallout 3 Soundtrack - Into Each Life Some Rain Must Fall.mp3
+05/03/2022  13:09                 0 Fallout 3 Soundtrack - Jazzy Interlude.mp3
+05/03/2022  13:09                 0 Fallout 3 Soundtrack - Jolly Days.mp3
+05/03/2022  13:09         1.635.020 Fallout 3 Soundtrack - Lets Go Sunning.mp3
+05/03/2022  13:09         2.740.526 Fallout 3 Soundtrack - Maybe.mp3
+05/03/2022  13:09         2.464.253 Fallout 3 Soundtrack - Mighty Mighty Man.mp3
+05/03/2022  13:09         2.880.988 Fallout 3 Soundtrack - Rhythm for You.mp3
+05/03/2022  13:10         1.306.579 Fallout 3 Soundtrack - Stars and Stripes Forever.mp3
+05/03/2022  13:09         2.860.054 Fallout 3 Soundtrack - Swing Doors.mp3
+05/03/2022  13:09           909.604 Fallout 3 Soundtrack - The Washington Post.mp3
+05/03/2022  13:09         2.747.221 Fallout 3 Soundtrack - Way Back Home.mp3
+05/03/2022  13:10         1.174.084 Fallout 3 Soundtrack - Yankee Doodle.mp3
+05/03/2022  13:10         3.349.239 Fallout 3 soundtrack Into The Wasteland.mp3
+05/03/2022  13:10         1.949.173 Fallout 3 soundtrack Main Title.mp3
+05/03/2022  13:10         3.374.567 Fallout 3 soundtrack Megaton.mp3
+05/03/2022  13:18                 0 list.txt
+              32 arquivo(s)     61.620.781 bytes
+               2 pasta(s)   171.343.208.448 bytes dispon¡veis
